@@ -1,5 +1,0 @@
-name: MCSPELLS
-main: com.hyperfresh.mcspells.SpellsPlugin
-version: 0.2
-commands: 
-  boltbook:
